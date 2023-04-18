@@ -5,3 +5,6 @@
 3) git push --> This command finally transmits the commited changes to the remote git repository.
 4) git status --> This command shows modified files in the working directory that are ready to be commited.
 5) git pull --> This command extracts all the changes made in the remote git repository to the local working directory.
+
+In todays lecture, we learned about the markdown language. We understood how a markdown language is converted into the HTML language using a markdown app. After converting the markdown language into HTML code, the code is sent to the client to make a webpage which is then, in a visual way, shown to the user. We also saw how we can make our own webpage using markdown language and host the webppage using github pages. The extension of this markdonw file should be ".md".
+We also learned how we can clone our own repo or other public repos using the github desktop app. Github desktop app can also be used to look at the changes made by us in the files.git config pull. We can also look at the history of the changes and commits made using this app.
