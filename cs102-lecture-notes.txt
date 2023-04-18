@@ -1,0 +1,7 @@
+5 commands learned:
+
+1) git add --> This command is used to stage new files or the changes made in already existing files.
+2) git commit --> This command commits all the changes that have been staged.
+3) git push --> This command finally transmits the commited changes to the remote git repository.
+4) git status --> This command shows modified files in the working directory that are ready to be commited.
+5) git pull --> This command extracts all the changes made in the remote git repository to the local working directory.
